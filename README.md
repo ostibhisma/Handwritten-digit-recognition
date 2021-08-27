@@ -5,7 +5,7 @@ This is handwritten digit recognition Project.
 
 ## Installing
   - Clone the Project first
-    > `https://github.com/ostibhisma/Emergency-vehicles-detection.git`
+    > `https://github.com/ostibhisma/Handwritten-digit-recognition.git`
   
   
   - Create new environment for the project using **virtualenv**
