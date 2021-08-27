@@ -1,0 +1,7 @@
+INFO -- data_loader.py -- 2021-08-28 00:35:03,027  -- Data Loading and manipulations starts initially 
+INFO -- data_loader.py -- 2021-08-28 00:35:03,055  -- Started Reading the 'image_names' columns of dataframe
+INFO -- data_loader.py -- 2021-08-28 00:35:03,351  -- Start Splitting train and test data
+INFO -- data_loader.py -- 2021-08-28 00:35:03,353  -- Successfully Completed Splitting train and test data
+INFO -- model.py -- 2021-08-28 00:35:03,388  -- Initially Started Creating Model
+INFO -- model.py -- 2021-08-28 00:35:03,388  -- Started Training the model
+INFO -- model.py -- 2021-08-28 00:35:49,904  -- Successfully Completed Training the Model
