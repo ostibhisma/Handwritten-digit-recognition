@@ -7,7 +7,6 @@ from sklearn import svm
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
-import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 

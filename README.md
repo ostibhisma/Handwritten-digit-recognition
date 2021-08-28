@@ -9,6 +9,10 @@ This is handwritten digit recognition Project.
   
   
   - Create new environment for the project using **virtualenv**
+     - Install virtualenv in ubuntu
+       ```
+       sudo pip install virtualenv
+       ```
      ```
     virtualenv -v venv -p python3
     source venv/bin/activate
